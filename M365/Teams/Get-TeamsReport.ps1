@@ -37,7 +37,7 @@
     Generates an activity report for private teams over the last 90 days and exports it to Excel format.
 
 .NOTES
-    Author: Michael Witzsche (Adapted by Gemini)
+    Author: Michael Witzsche
     Date: April 26, 2025
     Version: 1.0.0
 

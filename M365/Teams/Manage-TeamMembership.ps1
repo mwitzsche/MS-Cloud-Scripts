@@ -27,7 +27,7 @@
     Removes admin@contoso.com as an owner from the specified team.
 
 .NOTES
-    Author: Michael Witzsche (Adapted by Gemini)
+    Author: Michael Witzsche
     Date: April 26, 2025
     Version: 1.0.0
 
